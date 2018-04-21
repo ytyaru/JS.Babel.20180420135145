@@ -19,3 +19,4 @@ Babelを使ってトランスパイルする。
 Library|License|Copyright
 -------|-------|---------
 [Babel](https://babeljs.io/)|[MIT](https://opensource.org/licenses/MIT)|[Copyright (c) 2014-2015 Sebastian McKenzie](https://github.com/dbergey/babeljs/blob/master/LICENSE)
+[require](http://requirejs.org/)|[MIT](https://opensource.org/licenses/MIT)|[Copyright jQuery Foundation and other contributors](https://github.com/requirejs/requirejs/blob/master/LICENSE)
